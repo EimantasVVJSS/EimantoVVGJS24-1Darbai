@@ -1,0 +1,16 @@
+p1 {
+    color: blue;
+}
+m1  {
+    color: orange;
+}
+AS {
+    color: red;
+}
+
+.footer { 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+}
